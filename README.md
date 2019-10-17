@@ -43,11 +43,13 @@
 * 从顶部慢慢抬起显示屏。
 * `注：不要抬太高，里面有2根连接线。`
 * 用一只手握住显示屏的同时，另一只手拔下显示电源线。
+
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/5%E6%8B%94%E6%8E%89%E7%94%B5%E6%BA%90%E7%BA%BF.jpeg?raw=true)
 
 ---
 ## 步骤6
 * 打开数据线上的金属盖片并断开。
+
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/6%E6%89%93%E5%BC%80%E7%9B%96%E6%9D%BF%E6%8B%94%E6%95%B0%E6%8D%AE%E7%BA%BF.jpeg?raw=true)
 
 ---
@@ -55,6 +57,7 @@
 * 将显示屏抬高到接近垂直的位置。
 * 此时，显示屏底部仍有屏幕胶，上下慢慢抬放几次使屏幕胶松动。
 * 用塑料卡切割底部屏幕胶。
+
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/7%E6%8B%86%E5%BA%95%E9%83%A8%E5%B1%8F%E5%B9%95%E8%83%B6.jpeg?raw=true)
 
 ---
