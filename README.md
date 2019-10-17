@@ -134,5 +134,6 @@
 
 
 ## 步骤32 系统
-[如何通过 macOS 恢复功能重新安装 macOS]([https://support.apple.com/zh-cn/HT204904](https://support.apple.com/zh-cn/HT204904)
+[如何通过 macOS 恢复功能重新安装 macOS](https://support.apple.com/kb/HT204904)
+
 [如何创建可引导的 macOS 安装器](https://support.apple.com/kb/HT201372)
