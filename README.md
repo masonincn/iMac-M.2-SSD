@@ -5,11 +5,11 @@
 * 左：拆掉机械盘更换SATA接口的SSD固态硬盘速度，很不理想。
 * 右：拆掉自带32GB SSD，更换M.2 SSD固态硬盘速度。
 * 上右图可以看出已经很接近官方数值了，可以说是发挥了该有的性能。
-* 同时也给大家个建议，千万别换SATA接口的SSD固态硬盘。
 
 ---
+* 非苹果原装SSD，需转接卡才能适配卡槽。
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/01%E7%AE%80%E4%BB%8B.jpeg?raw=true)
-* 上图：需要转接卡才能适配iMac的卡槽。
+
 ## 前期准备
 1. M.2 SSD固态硬盘
 2. M.2转接卡
@@ -202,3 +202,6 @@
 ## 步骤32 安装系统
 * [如何通过 macOS 恢复功能重新安装 macOS](https://support.apple.com/kb/HT204904)
 * [如何创建可引导的 macOS 安装器](https://support.apple.com/kb/HT201372)
+
+
+**最后给大家个建议：如果想换SSD，千万别换SATA接口的，速度提升不大，对于视频剪辑或PS等设计用户不够友好，还是直接更换M.2接口的最好。**
