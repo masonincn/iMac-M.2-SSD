@@ -72,11 +72,11 @@
 ---
 ## 步骤10
 * 将左侧扬声器的连接线从电源上拔出。
-* 沿着硬盘与主板的缝隙取出。
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/10%E5%8D%B8%E6%89%AC%E5%A3%B0%E5%99%A8%E4%B8%8E%E7%94%B5%E6%BA%90%E8%BF%9E%E6%8E%A5%E7%BA%BF.jpeg?raw=true)
 
 ## 步骤11
 * 使用撬棒切断电源线与主板之间的连接。
+* 沿着硬盘与主板的缝隙取出。
 * `注：切勿触碰任何主板上的金属焊点。`
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/11%E5%8D%B8%E6%89%AC%E5%A3%B0%E5%99%A8%E4%B8%8E%E4%B8%BB%E6%9D%BF%E8%BF%9E%E6%8E%A5%E7%BA%BF.jpeg?raw=true)
 
