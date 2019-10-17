@@ -10,7 +10,7 @@
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/01%E7%AE%80%E4%BB%8B.jpeg?raw=true)
 
 ## 前期准备
-1. M.2 SSD固态硬盘
+1. M.2接口SSD固态硬盘
 2. M.2转接卡
 3. 螺丝刀（T8、T10、T25）
 4. 拆机滚轮
