@@ -192,6 +192,7 @@
 ---
 ## 步骤26
 * 轻微移动主板，将其向上抬起取出主板。
+* 将主板翻过来，就可以看到SSD固态硬盘。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/26%E4%B8%BB%E6%9D%BF.jpeg?raw=true)
 
@@ -204,7 +205,6 @@
 ---
 ## 步骤28
 * 把SSD从末端轻轻的抬起来并把它从主板上的插槽中拔出来。
-* 将主板翻过来，就可以看到SSD固态硬盘。
 * `注：未了防止损坏插槽，请不要过度抬高SSD的末端。`
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/28%E5%8D%B8%E4%B8%8Bssd.jpeg?raw=true)
