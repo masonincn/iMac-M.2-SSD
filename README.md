@@ -109,7 +109,7 @@
 * `注：切勿直接拿下电源，还有2条线与主板相连。`
 * 将电源向左侧移动，然后再向上使其能看到底部连接线。
 * 将2根连接线分别从主板和电源上拔出。
-* `注：小心谨慎，防止损坏`
+* `注：小心谨慎，防止损坏。`
 * 取下电源。
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/16%E5%8D%B8%E7%94%B5%E6%BA%90.jpeg?raw=true)
 
@@ -135,19 +135,18 @@
 ---
 ## 步骤20 取主板
 * 将四个连接AirPort和蓝牙天线的连接线断开。
-* `注：防止后面装机四个连接线错乱，建议使用胶带粘贴。`
+* `注：防止后面装机四个连接线错乱，建议使用胶带固定。`
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/20%E8%93%9D%E7%89%99%E7%BA%BF.jpeg?raw=true)
 
 ---
 ## 步骤21
-* `注：这个连接处很容易损坏，请小心。`
 * 翻转连接摄像头数据线的金属固定支架。
 * 将相机连接线朝iMac顶部方向拔出。
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/21%E6%91%84%E5%83%8F%E5%A4%B4%E7%BA%BF.jpeg?raw=true)
 
 ---
 ## 步骤22
-* 将耳机孔连接线与主板上断开并取出。
+* 将耳机孔连接线与主板上断开。
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/22%E9%BA%A6%E5%85%8B%E9%A3%8E.jpeg?raw=true)
 
 ---
@@ -156,7 +155,7 @@
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/23SATA%E7%BA%BF.jpeg?raw=true)
 
 ## 步骤24
-* 卸下散热片顶部的2颗螺丝。
+* 卸下散热片顶部2颗螺丝。
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/24%E6%95%A3%E7%83%AD%E7%89%87.jpeg?raw=true)
 
 ---
@@ -177,6 +176,7 @@
 ---
 ## 步骤28
 * 把SSD从末端轻轻的抬起来并把它从主板上的插槽中拔出来。
+* 将主板翻过来，就可以看到SSD固态硬盘。
 * `注：未了防止损坏插槽，请不要过度抬高SSD的末端。`
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/28%E5%8D%B8%E4%B8%8Bssd.jpeg?raw=true)
 
@@ -188,15 +188,15 @@
 
 ---
 ## 步骤30 友情提醒
-* 屏幕胶别挡住麦克风。
-![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/30%E9%BA%A6%E5%85%8B%E9%A3%8E.jpeg?raw=true)
 * 从机箱内向下吹气，可以清除被网格挡在外的灰尘。
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/30%E6%B8%85%E6%B4%81.jpeg?raw=true)
 
 ---
 ## 步骤31 装机
 * 按照倒着拆机顺序安装，别忘记每个线路连接好。
-* `注：屏幕胶请勿先撕开双面，待系统安装完成再粘合屏幕。`
+* `注：屏幕胶请勿先撕开双面，待系统安装完成再粘合。`
+* 屏幕胶别挡住麦克风。
+![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/30%E9%BA%A6%E5%85%8B%E9%A3%8E.jpeg?raw=true)
 
 ---
 ## 步骤32 系统
