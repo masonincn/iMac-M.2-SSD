@@ -1,6 +1,6 @@
 # iMac 27英寸 5K 2017款更换 M.2 SSD 固态硬盘拆机详解 
 
-## 话不多说，先看效果
+## 话不多说，先看性能
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/0%E7%AE%80%E4%BB%8B.jpeg?raw=true)
 * 官方介绍970EVO读取速度：3500MB/s，写入速度：2500MB/s。
 * 从上图可以看已经很接近了，可以说是完美发挥该有的性能。
