@@ -2,6 +2,8 @@
 
 ## 话不多说，先跑个分
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/0%E7%AE%80%E4%BB%8B.jpeg?raw=true)
+* 左：拆掉机械盘更换SATA接口的SSD固态硬盘速度，很不理想。
+* 右：拆掉自带32GB SSD，更换M.2 SSD固态硬盘速度。
 * 官方介绍970EVO读取速度：3500MB/s，写入速度：2500MB/s。
 * 从上图可以看已经很接近了，可以说是完美发挥该有的性能。
 
