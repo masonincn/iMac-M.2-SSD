@@ -3,8 +3,7 @@
 ## 话不多说，先跑个分
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/0%E7%AE%80%E4%BB%8B.jpeg?raw=true)
 * 左：拆掉机械盘更换SATA接口的SSD固态硬盘速度，很不理想。
-* 右：拆掉自带32GB SSD，更换M.2 SSD固态硬盘速度。
-* 上右图可以看出已经很接近官方数值了，可以说是发挥了该有的性能。
+* 右：拆掉自带32GB SSD，更换M.2 SSD固态硬盘速度，已经很接近官方数值，可以说发挥了该有的性能。
 
 ---
 * 非苹果原装SSD，需转接卡才能适配卡槽。
