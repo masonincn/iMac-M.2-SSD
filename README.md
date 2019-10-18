@@ -70,8 +70,9 @@
 ## 步骤8
 * 将显示屏抬起并取下。
 * `注：一定要非常小心。`
+* 卸下底部 9 颗螺丝。
 
-![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/8%E5%8F%96%E4%B8%8B%E5%B1%8F%E5%B9%95.jpeg?raw=true)
+![](picture/8取下屏幕.jpeg)
 
 ---
 ## 步骤9 取左扬声器
