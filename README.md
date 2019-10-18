@@ -233,8 +233,8 @@
 ---
 ## 步骤32 安装系统
 两种方法：
-1. [如何通过 macOS 恢复功能重新安装 macOS](https://support.apple.com/kb/HT204904)
-2. [如何创建可引导的 macOS 安装器](https://support.apple.com/kb/HT201372)
+1. [通过恢复功能重新安装macOS](https://support.apple.com/kb/HT204904)
+2. [U盘创建macOS安装器](https://support.apple.com/kb/HT201372)
 * 友情提示：如有备份，安装macOS后设置界面，有从备份盘迁移恢复数据选项。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/32%E7%B3%BB%E7%BB%9F.jpeg?raw=true)
