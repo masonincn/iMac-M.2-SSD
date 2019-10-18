@@ -3,8 +3,8 @@
 ## 话不多说，先跑个分
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/0%E7%AE%80%E4%BB%8B.jpeg?raw=true)
-* 左：拆掉机械盘更换 SATA 接口的 SSD 固态硬盘速度，很不理想（和自带 SSD 融合后的速度，如不融合速度只有 200-300MB/s）。`融合后 Final Cut Pro 超级卡，不融合 Photoshop 又卡，个人遇到这个 BUG 真的很恼火。`
-* 右：拆掉自带 32GB SSD，更换 M.2 SSD 固态硬盘速度，已接近官方数值，可以说发挥了该有的性能；此时速度起飞，再也不卡了。
+* 左：更换 SATA 接口 SSD 和自带 32GB SSD 融合后速度（不融合速度只有 200-300MB/s）。`融合后 Final Cut Pro 超级卡，不融合 Photoshop 又卡，个人遇到这个 BUG 真的很恼火。`
+* 右：更换 M.2 接口 SSD 速度，已接近官方数值，可以说发挥了该有的性能；此时速度起飞，再也不卡了。
 
 ---
 * 非苹果原装 SSD，需转接卡才能适配卡槽。
