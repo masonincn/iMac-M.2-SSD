@@ -3,20 +3,20 @@
 ## 话不多说，先跑个分
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/0%E7%AE%80%E4%BB%8B.jpeg?raw=true)
-* 左：拆掉机械盘更换SATA接口的SSD固态硬盘速度，很不理想（和自带SSD融合后的速度，如不融合速度只有200-300MB/s）。
-* 右：拆掉自带32GB SSD，更换M.2 SSD固态硬盘速度，已经很接近官方数值，可以说发挥了该有的性能。
+* 左：拆掉机械盘更换 SATA 接口的 SSD 固态硬盘速度，很不理想（和自带 SSD 融合后的速度，如不融合速度只有 200-300MB/s）。`融合后 Final Cut Pro 超级卡，不融合 Photoshop 又卡，个人遇到这个 BUG 真的很恼火。`
+* 右：拆掉自带 32GB SSD，更换 M.2 SSD 固态硬盘速度，已接近官方数值，可以说发挥了该有的性能；此时速度起飞，再也不卡了。
 
 ---
-* 非苹果原装SSD，需转接卡才能适配卡槽。
+* 非苹果原装 SSD，需转接卡才能适配卡槽。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/01%E7%AE%80%E4%BB%8B.jpeg?raw=true)
 
 ## 前期准备
-1. M.2接口SSD固态硬盘
-2. M.2转接卡
-3. 螺丝刀（T8、T10、T25）
+1. M.2 接口 SSD 固态硬盘
+2. M.2 转接卡
+3. 屏幕胶
 4. 拆机滚轮
-5. 屏幕胶
+5. 螺丝刀（T8、T10、T25）
 ---
 ## 步骤1 取显示屏
 * 从显示屏左方的缝隙中插入转盘滚轮。
@@ -38,7 +38,7 @@
 
 ---
 ## 步骤4
-* 将iMac屏幕朝上放在桌面上。
+* 将 iMac 屏幕朝上放在桌面上。
 * 用一张塑料卡慢慢移动沿着显示屏划开左、上、右方屏幕胶。
 * `注：摄像头的位置不要太深，否则会损坏。`
 
@@ -47,7 +47,7 @@
 ---
 ## 步骤5
 * 从顶部慢慢抬起显示屏。
-* `注：不要抬太高，里面有2根连接线。`
+* `注：不要抬太高，里面有 2 根连接线。`
 * 用一只手握住显示屏的同时，另一只手拔下显示电源线。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/5%E6%8B%94%E6%8E%89%E7%94%B5%E6%BA%90%E7%BA%BF.jpeg?raw=true)
@@ -75,7 +75,7 @@
 
 ---
 ## 步骤9 取左扬声器
-* 卸下2颗螺丝。
+* 卸下 2 颗螺丝。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/9%E5%8D%B8%E5%B7%A6%E6%89%AC%E5%A3%B0%E5%99%A8%E8%9E%BA%E4%B8%9D.jpeg?raw=true)
 
@@ -101,8 +101,8 @@
 
 ---
 ## 步骤13 取硬盘
-* 将SATA电源线向上拉起来与硬盘断开连接。
-* 卸下2颗左硬盘支架上的螺丝。
+* 将 SATA 电源线向上拉起来与硬盘断开连接。
+* 卸下 2 颗左硬盘支架上的螺丝。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/13%E7%A1%AC%E7%9B%98%E8%9E%BA%E4%B8%9D.jpeg?raw=true)
 
@@ -116,15 +116,15 @@
 ## 步骤15 取电源
 * 切断电源线。
 * `注：切勿触碰电源上的任何电容、导线以及焊点。`
-* 卸下电源上的4颗螺丝。
+* 卸下电源上的 4 颗螺丝。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/15%E7%94%B5%E6%BA%90%E8%9E%BA%E4%B8%9D.jpeg?raw=true)
 
 ---
 ## 步骤16
-* `注：切勿直接拿下电源，还有2条线与主板相连。`
+* `注：切勿直接拿下电源，还有 2 条线与主板相连。`
 * 将电源向左侧移动，然后再向上使其能看到底部连接线。
-* 将2根连接线分别从主板和电源上拔出。
+* 将 2 根连接线分别从主板和电源上拔出。
 * `注：小心谨慎，防止损坏。`
 * 取下电源。
 
@@ -132,7 +132,7 @@
 
 ---
 ## 步骤17 取右扬声器
-* 卸下2颗螺丝。
+* 卸下 2 颗螺丝。
 * 轻轻地向右摇晃扬声器，使其与主板松开。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/17%E5%8F%B3%E6%89%AC%E5%A3%B0%E5%99%A8%E8%9E%BA%E4%B8%9D.jpeg?raw=true)
@@ -147,14 +147,14 @@
 ---
 ## 步骤19 取风扇
 * 使用撬棒将风扇连接线与主板断开。
-* 卸下风扇上的3颗螺丝。
+* 卸下风扇上的 3 颗螺丝。
 * 向下压风扇与排风管道相连的黑色带子会自动脱胶，取出风扇。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/19%E9%A3%8E%E6%89%87.jpeg?raw=true)
 
 ---
 ## 步骤20 取主板
-* 将四个连接AirPort和蓝牙天线的连接线断开。
+* 将四个连接 AirPort 和蓝牙天线的连接线断开。
 * `注：防止后面装机四个连接线错乱，建议使用胶带固定。`
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/20%E8%93%9D%E7%89%99%E7%BA%BF.jpeg?raw=true)
@@ -162,7 +162,7 @@
 ---
 ## 步骤21
 * 翻转连接摄像头数据线的金属固定支架。
-* 将相机连接线朝iMac顶部方向拔出。
+* 将相机连接线朝 iMac 顶部方向拔出。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/21%E6%91%84%E5%83%8F%E5%A4%B4%E7%BA%BF.jpeg?raw=true)
 
@@ -174,44 +174,44 @@
 
 ---
 ## 步骤23
-* 将硬盘SATA线从右侧硬盘支架拉出，并放到右侧。
+* 将硬盘 SATA 线从右侧硬盘支架拉出，并放到右侧。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/23SATA%E7%BA%BF.jpeg?raw=true)
 
 ## 步骤24
-* 卸下散热片顶部2颗螺丝。
+* 卸下散热片顶部 2 颗螺丝。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/24%E6%95%A3%E7%83%AD%E7%89%87.jpeg?raw=true)
 
 ---
 ## 步骤25
-* 卸下主板正面9颗螺丝（中间一个取不出）。
+* 卸下主板正面 9 颗螺丝（中间一个取不出）。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/25%E4%B8%BB%E6%9D%BF%E8%9E%BA%E4%B8%9D.jpeg?raw=true)
 
 ---
 ## 步骤26
 * 轻微移动主板，将其向上抬起取出主板。
-* 将主板翻过来，就可以看到SSD固态硬盘。
+* 将主板翻过来，就可以看到 SSD 固态硬盘。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/26%E4%B8%BB%E6%9D%BF.jpeg?raw=true)
 
 ---
 ## 步骤27 取SSD
-* 卸下SSD固定在主板上的1颗螺丝。
+* 卸下 SSD 固定在主板上的1颗螺丝。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/27SSD%E8%9E%BA%E4%B8%9D.jpeg?raw=true)
 
 ---
 ## 步骤28
-* 把SSD从末端轻轻的抬起来并把它从主板上的插槽中拔出来。
-* `注：未了防止损坏插槽，请不要过度抬高SSD的末端。`
+* 把 SSD 从末端轻轻的抬起来并把它从主板上的插槽中拔出来。
+* `注：未了防止损坏插槽，请不要过度抬高 SSD 的末端。`
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/28%E5%8D%B8%E4%B8%8Bssd.jpeg?raw=true)
 
 ---
-## 步骤29 装SSD
-* 将SSD插入M.2转接卡上。
+## 步骤29 装 SSD
+* 将 SSD 插入 M.2 转接卡上。
 * 插入主板上插槽内，并拧上螺丝。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/29%E8%A3%85%E6%96%B0SSD.jpeg?raw=true)
@@ -234,9 +234,12 @@
 ## 步骤32 安装系统
 两种方法：
 1. [通过恢复功能重新安装macOS](https://support.apple.com/kb/HT204904)
-2. [U盘创建macOS安装器](https://support.apple.com/kb/HT201372)
-* 友情提示：如有备份，安装macOS后设置界面，有从备份盘迁移恢复数据选项。
+2. [U 盘创建 macOS 安装器](https://support.apple.com/kb/HT201372)
+* 友情提示：如有备份，安装 macOS 后设置界面，有从备份盘迁移恢复数据选项。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/32%E7%B3%BB%E7%BB%9F.jpeg?raw=true)
 
-**建议：如果你也想换SSD，不建议更换SATA接口的固态硬盘，速度提升不大，对于视频剪辑或PS等设计用户不够友好，M.2接口SSD才是最佳选择。**
+---
+## 总结
+* 970 EVO SSD 没有出现睡死情况，可以说非常完美。
+* 不建议更换 SATA 接口的固态硬盘，速度提升不大，对于使用 Final Cut Pro， Photoshop 等设计用户不够友好，M.2 接口 SSD 才是最佳选择。
