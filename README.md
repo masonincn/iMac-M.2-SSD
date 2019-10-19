@@ -47,7 +47,7 @@
 ---
 ## 步骤5
 * 从顶部慢慢抬起显示屏。
-* `⚠️不要抬太高，里面有 2 根连接线。`
+* ⚠️不要抬太高，里面有 2 根连接线。
 * 用一只手握住显示屏的同时，另一只手拔下显示电源线。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/5%E6%8B%94%E6%8E%89%E7%94%B5%E6%BA%90%E7%BA%BF.jpeg?raw=true)
@@ -69,7 +69,7 @@
 ---
 ## 步骤8
 * 将显示屏抬起并取下。
-* `⚠️一定要非常小心。`
+* ⚠️一定要非常小心。
 * 卸下底部 9 颗小螺丝，取出黑色长片，是为了其他部件不受阻挡容易取出。
 
 ![](picture/8取下屏幕.jpeg)
@@ -89,7 +89,7 @@
 ## 步骤11
 * 使用撬棒切断电源线与主板之间的连接。
 * 沿着硬盘与主板的缝隙取出。
-* `⚠️切勿触碰任何主板上的金属焊点。`
+* ⚠️切勿触碰任何主板上的金属焊点。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/11%E5%8D%B8%E6%89%AC%E5%A3%B0%E5%99%A8%E4%B8%8E%E4%B8%BB%E6%9D%BF%E8%BF%9E%E6%8E%A5%E7%BA%BF.jpeg?raw=true)
 
@@ -116,7 +116,7 @@
 ---
 ## 步骤15 取电源
 * 切断电源线。
-* `⚠️切勿触碰电源上的任何电容、导线以及焊点。`
+* ⚠️切勿触碰电源上的任何电容、导线以及焊点。
 * 卸下电源上的 4 颗螺丝。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/15%E7%94%B5%E6%BA%90%E8%9E%BA%E4%B8%9D.jpeg?raw=true)
@@ -125,7 +125,7 @@
 ## 步骤16
 * 将电源向左侧移动，然后再向上使其能看到底部连接线。
 * 将 2 根连接线分别从主板和电源上拔出。
-* `⚠️小心谨慎，防止损坏。`
+* ⚠️小心谨慎，防止损坏。
 * 取下电源。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/16%E5%8D%B8%E7%94%B5%E6%BA%90.jpeg?raw=true)
@@ -155,7 +155,7 @@
 ---
 ## 步骤20 取主板
 * 将四个连接 AirPort 和蓝牙天线的连接线断开。
-* `⚠️防止后面装机四个连接线错乱，建议使用胶带固定。`
+* ⚠️防止后面装机四个连接线错乱，建议使用胶带固定。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/20%E8%93%9D%E7%89%99%E7%BA%BF.jpeg?raw=true)
 
@@ -205,7 +205,7 @@
 ---
 ## 步骤28
 * 把 SSD 从末端轻轻的抬起来并把它从主板上的插槽中拔出来。
-* `注：未了防止损坏插槽，请不要过度抬高 SSD 的末端。`
+* ⚠️未了防止损坏插槽，请不要过度抬高 SSD 的末端。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/28%E5%8D%B8%E4%B8%8Bssd.jpeg?raw=true)
 
@@ -225,7 +225,7 @@
 ---
 ## 步骤31 装机
 * 按照倒着拆机顺序安装，别忘记每个线路连接好。
-* `⚠️屏幕胶请勿先撕开双面，待系统安装完成再粘合。`
+* ⚠️屏幕胶请勿先撕开双面，待系统安装完成再粘合。
 * 屏幕胶别挡住麦克风。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/30%E9%BA%A6%E5%85%8B%E9%A3%8E.jpeg?raw=true)
