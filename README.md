@@ -244,3 +244,6 @@
 ## 总结
 * 970 EVO SSD 没有出现睡死情况，可以说非常完美。
 * 不建议更换 SATA 接口的固态硬盘，速度提升不大，对于使用 Final Cut Pro， Photoshop 等设计用户不够友好，M.2 接口 SSD 才是最佳选择。
+---
+[![Telegram](https://rawcdn.githack.com/masonvip/masonvip.github.io/7fa770686f715c1d67b1544a6dc92d0bc24855c2/file01/Telegram.svg)](https://t.me/MasonClub)
+[![支付宝](https://rawcdn.githack.com/masonvip/masonvip.github.io/18ae48780713dafb6da43fb13fd869429e648d37/file01/支付宝.svg)](https://github.com/masonvip/masonvip.github.io/blob/master/file01/%E6%94%AF%E4%BB%98%E5%AE%9D.JPG?raw=true)
