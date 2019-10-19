@@ -3,8 +3,8 @@
 ## 话不多说，先跑个分
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/0%E7%AE%80%E4%BB%8B.jpeg?raw=true)
-* 左：更换 SATA 接口 SSD 和自带 32GB SSD 融合后速度（不融合速度只有 200-300MB/s）。`融合后 Final Cut Pro 超级卡，不融合 Photoshop 又卡，个人遇到这个 BUG 真的很恼火。`
-* 右：更换 M.2 接口 SSD 速度，已接近官方数值，可以说发挥了该有的性能；此时速度起飞，再也不卡了。
+* 左：更换 SATA 接口 SSD 和自带 32GB SSD 融合后速度（不融合只有 200-300MB/s）。`融合 Final Cut Pro 超级卡，不融合 Photoshop 又卡，个人遇到这个 BUG 真的很恼火。`
+* 右：更换 M.2 接口 SSD 速度已接近官方数值，可以说发挥了该有的性能，再也不卡了。
 
 ---
 * 非苹果原装 SSD，需转接卡才能适配卡槽。
@@ -40,14 +40,14 @@
 ## 步骤4
 * 将 iMac 屏幕朝上放在桌面上。
 * 用一张塑料卡慢慢移动沿着显示屏划开左、上、右方屏幕胶。
-* `注：摄像头的位置不要太深，否则会损坏。`
+* `⚠️摄像头的位置不要太深，否则会损坏。`
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/4%E5%B9%B3%E6%94%BE%E5%A1%91%E6%96%99%E5%8D%A1.jpeg?raw=true)
 
 ---
 ## 步骤5
 * 从顶部慢慢抬起显示屏。
-* `注：不要抬太高，里面有 2 根连接线。`
+* `⚠️不要抬太高，里面有 2 根连接线。`
 * 用一只手握住显示屏的同时，另一只手拔下显示电源线。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/5%E6%8B%94%E6%8E%89%E7%94%B5%E6%BA%90%E7%BA%BF.jpeg?raw=true)
@@ -69,7 +69,7 @@
 ---
 ## 步骤8
 * 将显示屏抬起并取下。
-* `注：一定要非常小心。`
+* `⚠️一定要非常小心。`
 * 卸下底部 9 颗小螺丝，取出黑色长片，是为了其他部件不受阻挡容易取出。
 
 ![](picture/8取下屏幕.jpeg)
@@ -89,7 +89,7 @@
 ## 步骤11
 * 使用撬棒切断电源线与主板之间的连接。
 * 沿着硬盘与主板的缝隙取出。
-* `注：切勿触碰任何主板上的金属焊点。`
+* `⚠️切勿触碰任何主板上的金属焊点。`
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/11%E5%8D%B8%E6%89%AC%E5%A3%B0%E5%99%A8%E4%B8%8E%E4%B8%BB%E6%9D%BF%E8%BF%9E%E6%8E%A5%E7%BA%BF.jpeg?raw=true)
 
@@ -116,17 +116,16 @@
 ---
 ## 步骤15 取电源
 * 切断电源线。
-* `注：切勿触碰电源上的任何电容、导线以及焊点。`
+* `⚠️切勿触碰电源上的任何电容、导线以及焊点。`
 * 卸下电源上的 4 颗螺丝。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/15%E7%94%B5%E6%BA%90%E8%9E%BA%E4%B8%9D.jpeg?raw=true)
 
 ---
 ## 步骤16
-* `注：切勿直接拿下电源，还有 2 条线与主板相连。`
 * 将电源向左侧移动，然后再向上使其能看到底部连接线。
 * 将 2 根连接线分别从主板和电源上拔出。
-* `注：小心谨慎，防止损坏。`
+* `⚠️小心谨慎，防止损坏。`
 * 取下电源。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/16%E5%8D%B8%E7%94%B5%E6%BA%90.jpeg?raw=true)
@@ -147,7 +146,7 @@
 
 ---
 ## 步骤19 取风扇
-* 使用撬棒将风扇连接线与主板断开。
+* 将风扇连接线与主板断开。
 * 卸下风扇上的 3 颗螺丝。
 * 向下压风扇与排风管道相连的黑色带子会自动脱胶，取出风扇。
 
@@ -156,7 +155,7 @@
 ---
 ## 步骤20 取主板
 * 将四个连接 AirPort 和蓝牙天线的连接线断开。
-* `注：防止后面装机四个连接线错乱，建议使用胶带固定。`
+* `⚠️防止后面装机四个连接线错乱，建议使用胶带固定。`
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/20%E8%93%9D%E7%89%99%E7%BA%BF.jpeg?raw=true)
 
@@ -198,7 +197,7 @@
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/26%E4%B8%BB%E6%9D%BF.jpeg?raw=true)
 
 ---
-## 步骤27 取SSD
+## 步骤27 取 SSD
 * 卸下 SSD 固定在主板上的1颗螺丝。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/27SSD%E8%9E%BA%E4%B8%9D.jpeg?raw=true)
@@ -226,7 +225,7 @@
 ---
 ## 步骤31 装机
 * 按照倒着拆机顺序安装，别忘记每个线路连接好。
-* `注：屏幕胶请勿先撕开双面，待系统安装完成再粘合。`
+* `⚠️屏幕胶请勿先撕开双面，待系统安装完成再粘合。`
 * 屏幕胶别挡住麦克风。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/30%E9%BA%A6%E5%85%8B%E9%A3%8E.jpeg?raw=true)
@@ -234,7 +233,7 @@
 ---
 ## 步骤32 安装系统
 两种方法：
-1. [通过恢复功能重新安装macOS](https://support.apple.com/kb/HT204904)
+1. [通过恢复功能重新安装 macOS](https://support.apple.com/kb/HT204904)
 2. [U 盘创建 macOS 安装器](https://support.apple.com/kb/HT201372)
 * 友情提示：如有备份，安装 macOS 后设置界面，有从备份盘迁移恢复数据选项。
 
