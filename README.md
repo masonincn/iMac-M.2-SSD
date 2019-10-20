@@ -2,39 +2,39 @@
 
 ## 话不多说，先跑个分
 
-![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/0%E7%AE%80%E4%BB%8B.jpeg?raw=true)
-* 左：更换 SATA 接口 SSD 和自带 32GB SSD 融合后速度（不融合只有 200-300MB/s）。`融合 Final Cut Pro 超级卡，不融合 Photoshop 又卡，个人遇到这个 BUG 真的很恼火。`
-* 右：更换 M.2 接口 SSD 速度已接近官方数值，可以说发挥了该有的性能，再也不卡了。
+![](picture/0简介.jpeg)
+* 左：卸下机械盘，换 `SATA` 接口 SSD 和自带 32GB SSD 融合后，上图左实际是自带 SSD 的速度，读写 3 次后会低至 100-300 MB/s，此时才是 `SATA` 接口 SSD 的速度，只能满足日常使用。【融合后 Final Cut Pro 卡，不融合 Photoshop 卡，个人遇到这个 BUG 真的恼火。】
+* 右：卸下自带 32GB SSD，换 `M.2` 接口 SSD，速度已接近官方数值，可以说发挥了该有的性能，表现优异各大应用流畅度提升明显。
 
 ---
-* 非苹果原装 SSD，需转接卡才能适配卡槽。
+* 非苹果原装 SSD，需要转接卡适配卡槽。
 
-![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/01%E7%AE%80%E4%BB%8B.jpeg?raw=true)
+![](picture/01简介.jpeg)
 
 ## 前期准备
-1. M.2 接口 SSD 固态硬盘
-2. M.2 转接卡
-3. 屏幕胶
-4. 拆机滚轮
-5. 螺丝刀：T8、T10、T25 和 十字口（能卸眼镜架上螺丝型号，详见步骤 8）
+1. `M.2` 接口 SSD 固态硬盘（本文选择三星 970 EVO 500GB，679 元）
+2. `M.2` 转接卡（12 元）
+3. 屏幕胶（20 元）
+4. 拆机滚轮（10 元）
+5. 螺丝刀：T8、T10、T25 和十字口（25 元）
 ---
 ## 步骤1 取显示屏
 * 从显示屏左方的缝隙中插入转盘滚轮。
 * 推着让转盘旋转（不要拉），多划几次，确保屏幕胶分离。
 
-![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/1%E5%B7%A6%E9%9D%A2.jpeg?raw=true)
+![](picture/1左面.jpeg)
 
 ---
 ## 步骤2
 * 上方划开显示屏。
 
-![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/2%E4%B8%8A%E9%9D%A2.jpeg?raw=true)
+![](picture/2上面.jpeg)
 
 ---
 ## 步骤3
 * 右方划开显示屏。
 
-![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/3%E5%8F%B3%E9%9D%A2.jpeg?raw=true)
+![](picture/3右面.jpeg)
 
 ---
 ## 步骤4
@@ -42,7 +42,7 @@
 * 用一张塑料卡慢慢移动沿着显示屏划开左、上、右方屏幕胶。
 * ⚠️摄像头的位置不要太深，否则会损坏。
 
-![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/4%E5%B9%B3%E6%94%BE%E5%A1%91%E6%96%99%E5%8D%A1.jpeg?raw=true)
+![](picture/4平放塑料卡.jpeg)
 
 ---
 ## 步骤5
@@ -211,7 +211,7 @@
 
 ---
 ## 步骤29 装 SSD
-* 将 SSD 插入 M.2 转接卡上。
+* 将 SSD 插入 `M.2` 转接卡上。
 * 插入主板上插槽内，并拧上螺丝。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/29%E8%A3%85%E6%96%B0SSD.jpeg?raw=true)
@@ -242,7 +242,7 @@
 ---
 ## 总结
 * 970 EVO SSD 没有出现睡死情况，可以说非常完美。
-* 不建议更换 SATA 接口的固态硬盘，速度提升不大，对于使用 Final Cut Pro， Photoshop 等设计用户不够友好，M.2 接口 SSD 才是最佳选择。
+* 不建议更换 SATA 接口的固态硬盘，速度提升不大，对于使用 Final Cut Pro， Photoshop 等设计用户不够友好，`M.2` 接口 SSD 才是最佳选择。
 ---
 [![Telegram](https://rawcdn.githack.com/masonvip/masonvip.github.io/7fa770686f715c1d67b1544a6dc92d0bc24855c2/file01/Telegram.svg)](https://t.me/MasonClub)
 [![支付宝](https://rawcdn.githack.com/masonvip/masonvip.github.io/18ae48780713dafb6da43fb13fd869429e648d37/file01/支付宝.svg)](https://github.com/masonvip/masonvip.github.io/blob/master/file01/%E6%94%AF%E4%BB%98%E5%AE%9D.JPG?raw=true)
