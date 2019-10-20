@@ -198,7 +198,7 @@
 
 ---
 ## 步骤27 取 SSD
-* 卸下 SSD 固定在主板上的1颗螺丝。
+* 卸下 SSD 固定在主板上的 1 颗螺丝。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/27SSD%E8%9E%BA%E4%B8%9D.jpeg?raw=true)
 
