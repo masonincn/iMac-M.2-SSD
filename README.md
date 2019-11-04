@@ -186,6 +186,7 @@
 ---
 ## 步骤25
 * 卸下主板正面 9 颗螺丝（中间一个取不出）。
+* 取下麦克风线。请仔细小心。
 
 ![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/25%E4%B8%BB%E6%9D%BF%E8%9E%BA%E4%B8%9D.jpeg?raw=true)
 
