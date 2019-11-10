@@ -241,7 +241,7 @@
 * 卸下左侧 1 个长行螺丝（T25 螺丝刀）。
 * 取下麦克风线。请仔细小心。
 
-![](/Users/mason/Documents/GitHub/iMac-M.2-SSD/picture/25%E4%B8%BB%E6%9D%BF%E8%9E%BA%E4%B8%9D.jpeg)
+![](picture/25主板螺丝)
 
 ---
 
