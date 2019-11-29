@@ -318,5 +318,4 @@
 ---
 [![Telegram](svg/Telegram.svg)](https://t.me/masonApple)
 [![简书](svg/简书.svg)](https://www.jianshu.com/u/76be8479a4ae)
-[![支付宝](svg/支付宝.svg)](svg/支付宝.JPG)
 [![](svg/微信捐赠.svg)](svg/微信.jpg)
