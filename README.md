@@ -281,33 +281,62 @@
 
 ---
 
-## 步骤30 友情提醒
+## 步骤30
+* 卸下 CPU 背面 4 颗螺丝。
 
-* 从机箱内向下吹气，可以清除被网格挡在外的灰尘。
 
-![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/30%E6%B8%85%E6%B4%81.jpeg?raw=true)
-
----
-
-## 步骤31 装机
-
-* 按拆机顺序逆顺序安装（请仔小心细，连接好每个线缆）。
-* ⚠️屏幕胶请勿先撕开双面，待能正常开机点亮屏幕或系统安装完成再粘合。
-* 屏幕胶别挡住麦克风。
-
-![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/30%E9%BA%A6%E5%85%8B%E9%A3%8E.jpeg?raw=true)
+![](picture/30cpu螺丝.png)
 
 ---
+## 步骤31
+* 用撬棒将 CPU 取下。
 
-## 步骤32 安装系统
+![](picture/31卸cpu.png)
 
-两种方法：
+---
+## 步骤32
+* 清除硅脂。
 
-1. [通过恢复功能重新安装 macOS](https://support.apple.com/kb/HT204904)
-2. [U 盘创建 macOS 安装器](https://support.apple.com/kb/HT201372)
-* 友情提示：如有备份，安装 macOS 后设置界面，有从备份盘迁移恢复数据选项。
+![](picture/32清除硅脂.png)
 
-![](https://github.com/masonvip/iMac-M.2-SSD/blob/master/picture/32%E7%B3%BB%E7%BB%9F.jpeg?raw=true)
+---
+## 步骤33
+* 将 7700K CPU 放入原位。
+
+![](picture/33装cpu.png)
+---
+
+---
+## 步骤34
+* 将硅脂涂在 CPU 表面。
+
+![](picture/34涂硅脂.png)
+
+---
+## 步骤35 装机
+* 友情提醒：从机箱内向下吹气，可以清除被网格挡在外的灰尘。
+
+![](picture/35清洁.jpeg)
+
+* 按照倒着拆机顺序安装，切记每个排线都连接好。
+* 🟡屏幕胶先粘贴一面，待系统安装完成，检查完整性后再撕掉另一面。
+* 🟡屏幕胶勿挡住麦克风。
+
+![](picture/36麦克风.jpeg)
+
+
+
+---
+## 步骤36 安装系统
+1. 开机按 Option-Command-P-R，看到 Apple 标志、旋转的地球或其他启动屏幕时，松开按键。
+2. 「实用工具」窗口点击「磁盘工具」，选择新换的SSD点击抹掉，格式选择APFS。
+3. 返回「实用工具」，点击「重新安装macOS」或「从时间机器备份进行恢复」。
+
+---
+## 步骤37 最后装机
+* 自带的机械硬盘如不卸可作为存储盘使用（当然也可以卸下，取决于个人需求）。
+* 撕掉屏幕胶的另一面。
+* 将显示屏和机身吻合，按压四周使其紧密贴合。
 
 ---
 
