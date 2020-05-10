@@ -288,3 +288,7 @@
 * 撕掉屏幕胶的另一面，将显示屏和机身吻合，按压四周使其紧密贴合。
 
   > 注：自带的机械硬盘如不卸可作为存储盘使用（当然也可以卸下，取决于个人需求）。
+
+
+
+![](/Users/mason/Documents/GitHub/iMac-SSD/picture/Alipay.png)
