@@ -291,4 +291,4 @@
 
 
 
-![](/Users/mason/Documents/GitHub/iMac-SSD/picture/Alipay.png)
+![](picture/Alipay.png)
