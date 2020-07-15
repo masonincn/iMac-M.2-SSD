@@ -281,23 +281,8 @@
 
 ---
 ## 步骤24 装系统
-![](picture/37Q群.jpg)
+技术支持Q：254136957
 
 ---
 ## 步骤25 完成
 * 撕掉屏幕胶的另一面，将显示屏和机身吻合，按压四周使其紧密贴合。
-
-  > 注：自带的机械硬盘如不卸可作为存储盘使用（当然也可以卸下，取决于个人需求）。
-
-
-
-### Telegram
-
-* 路由器群：[https://t.me/luyouqi](https://t.me/luyouqi)
-* V2EX群：[https://t.me/V2EXPro](https://t.me/V2EXPro)
-* Apple群：[https://t.me/applequn](https://t.me/applequn)
-* Google群：[https://t.me/googlequn](https://t.me/googlequn)
-
-如果对你有帮助，欢迎支付宝扫码支持！
-
-![Alipay](https://raw.githubusercontent.com/masonincn/tuchuang/master/uPic/Alipay.png)
