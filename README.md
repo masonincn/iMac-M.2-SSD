@@ -1,37 +1,31 @@
-# iMac 27英寸 2017款更换 CPU 和 SSD 固态硬盘拆机教程
+# iMac 27 英寸 2017 款更换 CPU 和 SSD 固态硬盘拆机教程
 
-![](picture/0简介.jpeg)
+![0简介](https://tvax4.sinaimg.cn/large/008eZBHKly1gowkic0w6tj31400u0tde.jpg)
 
-**技术支持**：手机/电脑安装 signal，搜索 +13476888811
-## 准备
+### 准备
 
-1. CPU（7700K）
-2. 硅脂
-3. M.2 固态硬盘
-4. 转接卡（非原装 SSD 需转接卡适配卡槽）
-5. 屏幕胶
-6. 拆机工具，例如，螺丝刀（T8、T10、T25 和 PH0）
+CPU、硅脂、SSD、转接卡（非原装 SSD 需要）、屏幕胶、螺丝刀。
 
 ---
 
-## 步骤1 取显示屏
+### 步骤1 取显示屏
 
 * 从显示屏左方的缝隙中插入转盘滚轮。
 * 推着让转盘旋转（不要拉），多划几次，确保屏幕胶分离。
 
-![](picture/1左面.jpeg)
+![1左面](https://tvax4.sinaimg.cn/large/008eZBHKly1gowkilvngmj31400mimz7.jpg)
 
 
 
 * 上方划开显示屏。
 
-![](picture/2上面.jpeg)
+![2上面](https://tva3.sinaimg.cn/large/008eZBHKly1gowkj6crcxj31400mitab.jpg)
 
 
 
 * 右方划开显示屏。
 
-![](picture/3右面.jpeg)
+![3右面](https://tvax1.sinaimg.cn/large/008eZBHKly1gowkjc8p2fj31400midi4.jpg)
 
 ---
 
@@ -41,7 +35,7 @@
 
   > 注：摄像头的位置不要太深，防止损坏。
 
-![](picture/4平放塑料卡.jpeg)
+![4平放塑料卡](https://tvax4.sinaimg.cn/large/008eZBHKly1gowkjiouzsj31400mi0wa.jpg)
 
 ---
 
@@ -49,16 +43,16 @@
 
 * 从顶部慢慢抬起显示屏。
 
-  > 不要抬太高，里面有 2 根连接线。
+  > 注意：不要抬太高，里面有 2 根连接线。
 * 用一只手握住显示屏的同时，另一只手拔下电源线。
 
-![](picture/5拔掉电源线.jpeg)
+![5拔掉电源线](https://tvax3.sinaimg.cn/large/008eZBHKly1gowkjo9g5sj31400miwin.jpg)
 
 
 
 * 打开数据线上的金属盖片并拔下。
 
-![](picture/6盖板.jpeg)
+![6盖板](https://tvax2.sinaimg.cn/large/008eZBHKly1gowkju0gybj31400mijzx.jpg)
 
 ---
 
@@ -68,9 +62,9 @@
 
 * 用手从一边撕掉（或塑料卡切割）屏幕胶，将显示屏取下。
 
-  > 注：一定要非常小心
+  > 注意：一定要非常小心。
 
-![](picture/7底屏幕胶.jpeg)
+![7底屏幕胶](https://tva3.sinaimg.cn/large/008eZBHKly1gowkjzbqdmj31400mi0x5.jpg)
 
 ---
 
@@ -78,7 +72,7 @@
 
 * 卸下底部 9 颗螺丝，取出黑色长片（为了其他部件稍后不受阻挡）。
 
-![](picture/8取下屏幕.jpeg)
+![8取下屏幕](https://tva1.sinaimg.cn/large/008eZBHKly1gowkk7jfr1j31400u0tc3.jpg)
 
 ---
 
@@ -86,13 +80,13 @@
 
 * 卸下 2 颗螺丝。
 
-![](picture/9扬声器.jpeg)
+![9扬声器](https://tvax1.sinaimg.cn/large/008eZBHKly1gowkkfanr8j30u00ngtck.jpg)
 
 
 
 * 将 `左侧扬声器` 的连接线从电源上拔出。
 
-![](picture/10扬声器.jpeg)
+![10扬声器](https://tvax3.sinaimg.cn/large/008eZBHKly1gowkkjeusgj31400migqj.jpg)
 
 
 
@@ -100,13 +94,13 @@
 
   > 注：切勿触碰任何主板上的金属焊点。
 
-![](picture/11扬声器.jpeg)
+![11扬声器](https://tva1.sinaimg.cn/large/008eZBHKly1gowkkox5p9j31400min1r.jpg)
 
 
 
 * 将扬声器向上抬起，取出扬声器，连接线从扬声器的槽中取出。
 
-![](picture/12卸扬声器.jpeg)
+![12卸扬声器](https://tvax4.sinaimg.cn/large/008eZBHKly1gowkkt18x5j31400mitck.jpg)
 
 ---
 
@@ -114,13 +108,13 @@
 
 * 将 SATA 电源线向上拉与硬盘断开连接，卸下 2 颗 `左硬盘支架` 上的螺丝。
 
-![](picture/13硬盘螺丝.jpeg)
+![13硬盘螺丝](https://tva1.sinaimg.cn/large/008eZBHKly1gowkkyccv9j31400migqh.jpg)
 
 
 
 * 拿住硬盘向左，取下硬盘（我的原装机械硬盘已经被更换为 SATA 固态）。
 
-![](picture/14硬盘.jpeg)
+![14硬盘](https://tvax1.sinaimg.cn/large/008eZBHKly1gowkl2sksqj31400mi75p.jpg)
 
 ---
 
@@ -130,7 +124,7 @@
 
   > 注：切勿触碰电源上的任何电容、导线以及焊点。
 
-![](picture/15电源螺丝.jpeg)
+![15电源螺丝](https://tva2.sinaimg.cn/large/008eZBHKly1gowkl6o5m8j31400miajy.jpg)
 
 
 
@@ -138,7 +132,7 @@
 
   > 注：连接线有卡扣，请小心谨慎，防止损坏
 
-![](picture/16卸电源.jpeg)
+![16卸电源](https://tva1.sinaimg.cn/large/008eZBHKly1gowklc0bh0j31400midkb.jpg)
 
 ---
 
@@ -146,13 +140,13 @@
 
 * 卸下 2 颗螺丝，轻轻向右摇晃扬声器，使其与主板松开。
 
-![](picture/17右扬声器螺丝.jpeg)
+![17右扬声器螺丝](https://tvax3.sinaimg.cn/large/008eZBHKly1gowklgstb1j314010fthj.jpg)
 
 
 
 * 断开连接线，将扬声器向上抬起，并取出。
 
-![](picture/18卸右扬声器.jpeg)
+![18卸右扬声器](https://tva1.sinaimg.cn/large/008eZBHKly1gowkll2mxrj31400mi7c1.jpg)
 
 ---
 
@@ -161,7 +155,7 @@
 * 将风扇连接线与主板断开；卸下 3 颗螺丝。
 * 向下压风扇与排风管道相连的黑色带子会自动脱胶，取出风扇。
 
-![](picture/19风扇.jpeg)
+![19风扇](https://tva2.sinaimg.cn/large/008eZBHKly1gowklq0wjvj31400mitdn.jpg)
 
 ---
 
@@ -171,29 +165,29 @@
 
   > 注：防止之后装机错乱，建议使用胶带固定
 
-![](picture/20蓝牙线.jpeg)
+![20蓝牙线](https://tvax3.sinaimg.cn/large/008eZBHKly1gowklvlzwvj31400mijxe.jpg)
 
 
 
 * 掀开摄像头数据线的金属固定支架，将连接线朝 iMac 顶部方向拔出。
 
-![](picture/21摄像头线.jpeg)
+![21摄像头线](https://tvax1.sinaimg.cn/large/008eZBHKly1gowkmehh8sj31400mijwi.jpg)
 
 
 
 * 将耳机孔连接线与主板上断开。
 
-![](picture/22麦克风.jpeg)
+![22麦克风](https://tva4.sinaimg.cn/large/008eZBHKly1gowkmihy12j31400miwk0.jpg)
 
 
 
 * 将硬盘 SATA 线从右侧硬盘支架拉出，放到右侧。
 
-![](picture/23SATA线.jpeg)
+![23SATA线](https://tvax1.sinaimg.cn/large/008eZBHKly1gowkmmoaacj31400miwj2.jpg)
 
 * 卸下散热片顶部 2 颗螺丝。
 
-![](picture/24散热片.jpeg)
+![24散热片](https://tva4.sinaimg.cn/large/008eZBHKly1gowkmqe07hj31400mi43q.jpg)
 
 
 
@@ -201,7 +195,7 @@
 
   > 注：麦克风连接线非常小，请仔细小心
 
-![](picture/25主板螺丝.jpeg)
+![25主板螺丝](https://tvax1.sinaimg.cn/large/008eZBHKly1gowkmv986ij31400qwae5.jpg)
 
 ---
 
@@ -209,13 +203,13 @@
 
 * 将主板翻过来，看到 SSD 固态硬盘位置。
 
-![](picture/26主板.jpeg)
+![26主板](https://tvax2.sinaimg.cn/large/008eZBHKly1gowkmzgj7uj31400midjl.jpg)
 
 
 
 * 卸下 SSD 上的 1 颗螺丝。
 
-![](picture/27SSD螺丝.jpeg)
+![27SSD螺丝](https://tvax4.sinaimg.cn/large/008eZBHKly1gowkn41b43j31400mi7b4.jpg)
 
 
 
@@ -224,13 +218,13 @@
   > 注：防止损坏插槽，请不要过度抬高 SSD 的末端。
 * 新 SSD 装上 `转接卡`。
 
-![](picture/28 转接卡.jpeg)
+![28 转接卡](https://tva1.sinaimg.cn/large/008eZBHKly1gowkn7y8ezj31400q8wgt.jpg)
 
 
 
 * 插入主板上插槽内，拧上螺丝。
 
-![](picture/29装新SSD.jpeg)
+![29装新SSD](https://tva2.sinaimg.cn/large/008eZBHKly1gowknbzpuhj31400miwl3.jpg)
 
 ---
 
@@ -238,41 +232,42 @@
 * 卸下 CPU 背面 4 颗螺丝。
 
 
-![](picture/30cpu螺丝.png)
+![30cpu螺丝](https://tva4.sinaimg.cn/large/008eZBHKly1gowknglf21j31hc0u0wx3.jpg)
 
 
 
 * 用撬棒将 CPU 取下。
 
-![](picture/31卸cpu.png)
+![31卸cpu](https://tva2.sinaimg.cn/large/008eZBHKly1gowknlhfdqj31hc0u0qi1.jpg)
 
 
 
 * 清除硅脂。
 
-![](picture/32清除硅脂.png)
+![32清除硅脂](https://tvax3.sinaimg.cn/large/008eZBHKly1gowknpx7hbj31hc0u0dzp.jpg)
 
 
 
 * 将 7700K CPU 放入原位。
 
-![](picture/33装cpu.png)
----
+![33装cpu](https://tvax1.sinaimg.cn/large/008eZBHKly1gowknv0waxj31hc0u019p.jpg)
 
 
 
 * 将硅脂涂在 CPU 表面。
 
-![](picture/34涂硅脂.png)
+![34涂硅脂](https://tvax1.sinaimg.cn/large/008eZBHKly1gowko7ucaxj31hc0u07li.jpg)
 
 ---
 ## 步骤23 装机
-> 友情提醒：装机前请清理灰尘。
-
 * 按照拆机过程的倒序安装，安装主板时建议插个 U 盘，防止位置不对。
 
 * 屏幕胶勿挡住麦克风。
 
-  > 注：屏幕胶先粘贴一面，待系统安装完成，检查完整性后再撕掉另一面。
+  > 注意：装机前请清理灰尘，屏幕胶先粘贴一面，待系统安装完成，检查完整性后再撕掉另一面。
 
-![](picture/36麦克风.jpeg)
+![36麦克风](https://tvax2.sinaimg.cn/large/008eZBHKly1gowkoc88trj31400midp3.jpg)
+
+有偿技术支持：[Telegram](https://t.me/yifangme)
+
+🔝[返回顶部](#准备)
