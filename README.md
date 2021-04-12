@@ -1,7 +1,12 @@
-# iMac 27 英寸 2017 款更换 CPU 和 SSD 固态硬盘拆机教程
+# iMac 27英寸 2017款更换 CPU 和 SSD 固态硬盘拆机教程
 
 ![0简介](https://tvax4.sinaimg.cn/large/008eZBHKly1gowkic0w6tj31400u0tde.jpg)
+### 联系信息
 
+* Twitter：[@yifangme](https://twitter.com/yifangme)
+* Telegram：[@yifangme](https://t.me/yifangme) 
+
+---
 ### 准备
 
 CPU、硅脂、SSD、转接卡（非原装 SSD 需要）、屏幕胶、螺丝刀。
@@ -268,6 +273,5 @@ CPU、硅脂、SSD、转接卡（非原装 SSD 需要）、屏幕胶、螺丝刀
 
 ![36麦克风](https://tvax2.sinaimg.cn/large/008eZBHKly1gowkoc88trj31400midp3.jpg)
 
-有偿技术支持：[Telegram](https://t.me/yifangme)
 
-🔝[返回顶部](#准备)
+🔝[返回顶部](#imac-27英寸-2017款更换-cpu-和ssd-固态硬盘拆机教程)
