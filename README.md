@@ -274,4 +274,4 @@ CPU、硅脂、SSD、转接卡（非原装 SSD 需要）、屏幕胶、螺丝刀
 ![36麦克风](https://tvax2.sinaimg.cn/large/008eZBHKly1gowkoc88trj31400midp3.jpg)
 
 
-🔝[返回顶部](#imac-27英寸-2017款更换-cpu-和ssd-固态硬盘拆机教程)
+🔝[返回顶部](#imac-27英寸-2017款更换-cpu-和-ssd-固态硬盘拆机教程)
