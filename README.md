@@ -1,11 +1,7 @@
 # iMac 27英寸 2017款更换 CPU 和 SSD 固态硬盘拆机教程
 
-![0简介](https://tvax4.sinaimg.cn/large/008eZBHKly1gowkic0w6tj31400u0tde.jpg)
-### 联系信息
-
-* Twitter：[@yifangme](https://twitter.com/yifangme)
-* Telegram：[@yifangme](https://t.me/yifangme) 
-
+![](https://tvax4.sinaimg.cn/large/008eZBHKly1gowkic0w6tj31400u0tde.jpg)
+[![](https://img.shields.io/badge/Twitter-%E6%8E%A8%E7%89%B9-%231BA1F3)](https://twitter.com/yifangme) [![](https://img.shields.io/badge/Telegram-%E8%AE%A8%E8%AE%BA%E7%BE%A4-%2323A5E4)](https://t.me/apple_chn)
 ---
 ### 准备
 
